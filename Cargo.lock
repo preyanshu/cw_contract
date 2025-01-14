@@ -217,6 +217,7 @@ dependencies = [
  "cosmwasm-std",
  "cw-multi-test",
  "cw-storey",
+ "cw-utils",
  "serde",
  "thiserror 2.0.11",
 ]
