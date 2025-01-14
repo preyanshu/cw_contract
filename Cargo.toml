@@ -10,6 +10,7 @@ crate-type = ["cdylib"]
 cosmwasm-std = { version = "2.1.4", features = ["staking"] }
 serde = { version = "1.0.214", default-features = false, features = ["derive"] } 
 cw-storey = "0.4.0"
+thiserror = "2.0.3"
 
 [dev-dependencies]
 cw-multi-test = "2.2.0"
